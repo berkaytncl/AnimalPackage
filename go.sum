@@ -2,3 +2,5 @@ github.com/berkaytncl/dog v0.0.0-20250711131830-b5bd667db96b h1:SlxnsfgULeUBQgBp
 github.com/berkaytncl/dog v0.0.0-20250711131830-b5bd667db96b/go.mod h1:/1EXZ7uNdGcXRgQuKAahfbo6Apzc36CwGEegP8KkWEY=
 github.com/berkaytncl/puppy v0.0.0-20250711132449-24544994562d h1:9dYyulJ1P5WBLjNl4Fx896JhwGbQ7Ck6YEq2GfSHNhQ=
 github.com/berkaytncl/puppy v0.0.0-20250711132449-24544994562d/go.mod h1:oDvm3E7rjwZf7D+ziwpHvvcAHMZ4fZvhxXZTILRLiD8=
+github.com/berkaytncl/puppy v1.1.0 h1:7tdgb0zuJ/X5vxQIsQCtP8KnSGiyAGS0ssSzKHDeSpE=
+github.com/berkaytncl/puppy v1.1.0/go.mod h1:oDvm3E7rjwZf7D+ziwpHvvcAHMZ4fZvhxXZTILRLiD8=

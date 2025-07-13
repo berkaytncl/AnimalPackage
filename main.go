@@ -22,4 +22,7 @@ func main() {
 	fmt.Println(puppy.Barks())
 	fmt.Println(puppy.BigBark())
 	fmt.Println(puppy.BigBarks())
+
+	puppy.From100()
+	puppy.From110()
 }
